@@ -3,6 +3,32 @@ React Native Dev Log
 
 ---
 
+# Get Start
+---
+
+[MouseRecorder Folder](https://github.com/iOSDevLog/RNDevLog/blob/master/MouseRecorder) was the *Recorder File* I recorder souce code by *Mouse Recorder for Mac*.
+
+* You can use *Mouse Recorder for Mac* to open it. 
+* then select **Reply Once** on the menu. 
+* finally, You can see how I coding. is it cool?
+
+If you like this, give me a *star*, Thank You!
+
+## Init Code
+
+1. user *react-native-helloworld.mcr* under the *MouseRecorder* Folder like above.
+
+2. download it from [React Native Init Code](https://pan.baidu.com/s/1pJ5qjwR#list/path=%2FiOSDevLog%2FCode%2FReactNative)
+
+download the init code.
+
+unzip it.
+
+```bash
+$ cd iOSDevLog
+$ react-native run-ios
+```
+
 # Authors
 ---
 
