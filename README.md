@@ -1,7 +1,9 @@
 # RNDevLog
+---
+
 React Native Dev Log
 
----
+If you like this, give me a *star*, Thank You!
 
 # Get Start
 ---
@@ -11,23 +13,6 @@ React Native Dev Log
 * You can use *Mouse Recorder for Mac* to open it. 
 * then select **Reply Once** on the menu. 
 * finally, You can see how I coding. is it cool?
-
-If you like this, give me a *star*, Thank You!
-
-## Init Code
-
-1. user *react-native-helloworld.mcr* under the *MouseRecorder* Folder like above.
-
-2. download it from [React Native Init Code](https://pan.baidu.com/s/1pJ5qjwR#list/path=%2FiOSDevLog%2FCode%2FReactNative)
-
-download the init code.
-
-unzip it.
-
-```bash
-$ cd iOSDevLog
-$ react-native run-ios
-```
 
 # Authors
 ---
@@ -62,8 +47,12 @@ Email:  <iosdevlog@iosdevlog.com>
 ---
 
 [Mouse Recorder for Mac](https://www.jitbit.com/mac-mouse-recorder/)
+
 [React Native](https://github.com/facebook/react-native)
+
 [gitignore.io](https://www.gitignore.io)
+
+[React-Native-Cookbook](https://github.com/PacktPublishing/React-Native-Cookbook)
 
 # License
 ---
